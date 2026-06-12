@@ -53,8 +53,10 @@
 ###
 
 <div align="left" style="display:flex; gap: 16px;">
-  <a href="https://www.linkedin.com/in/sven-primus-691738190/">  <img src="./assets/icons/linkedin-icon.svg" width="32" height="32" alt="linkedin logo"  target="_blank"/></a>
-  <a href="svenprimus" target="_blank"><img src="./assets/discord-user.svg" height="32" alt="discord-profil: svenprimus"/></a>
+  <a href="https://www.linkedin.com/in/sven-primus-691738190/" target="_blank">  <img src="./assets/icons/linkedin-icon.svg" width="32" height="32" alt="linkedin logo"></a>
+  <img width="16" />
+  <img src="./assets/discord-user.svg" height="32" alt="discord-profil: svenprimus"/>
+  <img width="16" />
   <a href="mailto:svenprimus@gmail.com"><img src="./assets/gmail-user.svg" height="32" alt="gmail-profil: svenprimus"/></a>
   
 </div>
