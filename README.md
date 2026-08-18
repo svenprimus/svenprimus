@@ -9,7 +9,6 @@
   <a href="https://discord.com/"><img src="./assets/links/discord.svg" height="42" alt="Discord-Profile: svenprimus" /></a>
 </div>
 
-
 ## The Grimoire
 
 <p align="left">Good Morning! I'm Sven — Frontend Developer with a twist.<br><br>As a former engineer and head of embedded software department, I bring the technical know-how to break down complex tasks and make them accessible — from the lowest technical level all the way up to the end user.<br><br>Finally ~ I love the magic of coding! Making the invisible visible. → check it out <portfolio-link-in-progress></p>
@@ -19,35 +18,35 @@
 ## Preferred Techs
 
 <div align="left">
-    <img src="./assets/icons/javascript-original.svg" height="32" width="32" alt="javascript logo"  />
+    <img src="./assets/techs/javascript.svg" height="42" width="160" alt="javascript logo"  />
     <img width="16" />
-    <img src="./assets/icons/typescript-original.svg" height="32" width="32" alt="typescript logo"  />
+    <img src="./assets/techs/typescript.svg" height="42" width="160" alt="typescript logo"  />
     <img width="16" />
-    <img src="./assets/icons/html5-original.svg" height="32" width="32" alt="html5 logo"  />
+    <img src="./assets/techs/html5.svg" height="42" width="160" alt="html5 logo"  />
     <img width="16" />
-    <img src="./assets/icons/css3-original.svg" height="32" width="32" alt="css logo"  />
+    <img src="./assets/techs/css3.svg" height="42" width="160" alt="css logo"  />
     <img width="16" />
-    <img src="./assets/icons/cplusplus-original.svg" height="32" width="32" alt="cplusplus logo"  />
+    <img src="./assets/techs/cpp.svg" height="42" width="160" alt="cplusplus logo"  />
     <img width="16" />
-    <img src="./assets/icons/csharp-original.svg" height="32" width="32" alt="csharp logo"  />
+    <img src="./assets/techs/csharp.svg" height="42" width="160" alt="csharp logo"  />
     <img width="16" />
-    <img src="./assets/icons/python-original.svg" height="32" width="32" alt="python logo"  />
+    <img src="./assets/techs/python.svg" height="42" width="160" alt="python logo"  />
 </div>
 
 ## More
 
 <div align="left">
-  <img src="./assets/icons/angular_gradient.png" height="32" width="32" alt="angularjs logo"  />
+  <img src="./assets/techs/angular.svg" height="42" width="160" alt="angularjs logo"  />
   <img width="16" />
-  <img src="./assets/icons/figma-original.svg" height="32" width="32" alt="figma logo"  />
+  <img src="./assets/techs/figma.svg" height="42" width="160" alt="figma logo"  />
   <img width="16" />
-  <img src="./assets/icons/git-original.svg" height="32" width="32" alt="git logo"  />
+  <img src="./assets/techs/git.svg" height="42" width="160" alt="git logo"  />
   <img width="16" />
-  <img src="./assets/icons/jira-original.svg" height="32" width="32" alt="jira logo"  />
+  <img src="./assets/techs/jira.svg" height="42" width="160" alt="jira logo"  />
   <img width="16" />
-  <img src="./assets/icons/notion-original.svg" height="32" width="32" alt="notion logo"  />
+  <img src="./assets/techs/notion.svg" height="42" width="160" alt="notion logo"  />
   <img width="16" />
-  <img src="./assets/icons/cmake-original.svg" height="32" width="32" alt="cmake logo"  />
+  <img src="./assets/techs/cmake.svg" height="42" width="160" alt="cmake logo"  />
 </div>
 
 <br/>
