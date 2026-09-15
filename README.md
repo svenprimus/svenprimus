@@ -31,6 +31,8 @@
     <img src="./assets/techs/csharp.svg" height="42" width="160" alt="csharp logo"  />
     <img width="16" />
     <img src="./assets/techs/python.svg" height="42" width="160" alt="python logo"  />
+    <img width="16" />
+    <img src="./assets/techs/scss.svg" height="42" width="160" alt="scss / sass logo"  />
 </div>
 
 ## More
